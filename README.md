@@ -6,12 +6,21 @@
 <p align="left"> <a href="https://twitter.com/jeevankc1718" target="blank"><img src="https://img.shields.io/twitter/follow/jeevankc1718?logo=twitter&style=for-the-badge" alt="jeevankc1718" /></a> </p>
 
 <p align="left"> <a href="https://www.linkedin.com/in/jeevan-k-c-8b69541ba/" target="blank"><img src="https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Jeevan KC" /></a> </p>
+<h2> 🤘 About me </h2>
+
+<ul>
+<li> 👤 Name: Jeevan KC </li>
+<li> 📌 Location : Kathmandu, Nepal 🇳🇵</li>
+<li> 📢 Langauges: English, Nepali, Hindi
+<li> 🎓 Computer Engineering passout from Tribhuwan University  </li>
+<li> ❤️ Exploring Programming </li>
+</ul>
 
 - 🔭 I’m currently working on [CREATING 3D VIRTUAL SPACE FOR HOTEL EXPLORATION AND RESERVATION USING PHOTOGRAMMETRY & LIDAR](www.major-hotel.onrender.com)
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Version Control System, Blockchain,MERN, Figma Design**
+- 💬 Ask me about **Git-Github, Blockchain, MERN, Figma Design**
 
 - 📫 How to reach me **jkc5186@gmail.com**
 
