@@ -17,7 +17,8 @@
 --- 
 <h2 ><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="65" height="60"> I'm currently ...</h2>
 
-- 🔭 Learning Data Engineering, Web3
+- 🔭 Looking to explore Data Engineering
+- 👍Previously done some projects on MERN, Blockchain, Virtual Reality
 - 🧑‍💻 Looking for collaboration on new projects and remote jobs
 - 🥳 Sucessfully coordinated several technical event as a coordinator like Blockchain workshops, Drone and RC Plane Assembling Programme so on. 
 - 🎗️ Actively participating on several hackathons 
@@ -32,6 +33,7 @@
 <a href="https://fb.com/jeevankc171819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jeevankc171819" height="30" width="40" /></a>
 </p>
 
+--- 
 
 <h3 align="left">Languages and Tools:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeevankc17&show_icons=true&locale=en&layout=compact" alt="jeevankc17" /></p>
