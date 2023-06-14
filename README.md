@@ -11,7 +11,8 @@
 <li> 📌 Location : Kathmandu, Nepal 🇳🇵</li>
 <li> 📢 Langauges: English, Nepali, Hindi
 <li> 🎓 Computer Engineering passout from Tribhuwan University  </li>
-<li> ❤️ Exploring Programming </li>
+<li> ❤️ Want to explore all the elements of life </li>
+<li> 😎 Strong leadership qualities combined with excellent persuasive skills. </li>
 </ul>
 
 --- 
