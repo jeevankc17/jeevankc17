@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/jeevankc1718" target="blank"><img src="https://img.shields.io/twitter/follow/jeevankc1718?logo=twitter&style=for-the-badge" alt="jeevankc1718" /></a> </p>
 
+<p align="left"> <a href="https://www.linkedin.com/in/jeevan-k-c-8b69541ba/" target="blank"><img src="https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Jeevan KC" /></a> </p>
+
 - 🔭 I’m currently working on [CREATING 3D VIRTUAL SPACE FOR HOTEL EXPLORATION AND RESERVATION USING PHOTOGRAMMETRY & LIDAR](www.major-hotel.onrender.com)
 
 - 🌱 I’m currently learning **Data Science**
