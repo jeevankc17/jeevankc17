@@ -25,7 +25,7 @@
 - 🔭 Looking to explore Data Engineering
 - 👍Previously done some projects on MERN, Blockchain, Virtual Reality
 - 🧑‍💻 Looking for collaboration on new projects and remote jobs
-- 🥳 Sucessfully coordinated several technical event as a coordinator like Blockchain workshops, Drone and RC Plane Assembling Programme so on. 
+- 🥳 Sucessfully coordinated several technical event as a coordinator like Blockchain workshops, Drone and RC Plane Assembling Program.. 
 - 🎗️ Actively participating on several hackathons from past
 - 🍗 Have work with several national and international companies
 
