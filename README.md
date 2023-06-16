@@ -57,9 +57,10 @@
 </a>
   
 <a href="https://fb.com/jeevankc171819" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/icons/Social/facebook.svg" alt="jeevankc171819" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jeevankc171819" height="30" width="40" />
 </a>
-  
+
+
 <a href="https://medium.com/@jkc5186" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Your Medium Profile" height="30" width="40" />
 </a>
