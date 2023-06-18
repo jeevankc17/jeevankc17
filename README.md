@@ -28,7 +28,6 @@
 - 🧑‍💻 Looking for internship
 - 🥳 Sucessfully coordinated several technical event as a coordinator like Blockchain workshops, Drone and RC Plane Assembling Program.. 
 - 🎗️ Actively participating on several hackathons from past
-- 🍗 Have experience working as Corporate Workshop Coordinator on IT related domain
 
 --- 
 
