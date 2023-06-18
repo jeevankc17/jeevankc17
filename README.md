@@ -25,10 +25,10 @@
 
 - 🔭 Looking to explore Data Analytics And Visualization For Business Intelligence
 - 👍Previously done some projects on MERN, Blockchain  & Mixed Reality
-- 🧑‍💻 Looking for collaboration on new projects and remote jobs
+- 🧑‍💻 Looking for internship
 - 🥳 Sucessfully coordinated several technical event as a coordinator like Blockchain workshops, Drone and RC Plane Assembling Program.. 
 - 🎗️ Actively participating on several hackathons from past
-- 🍗 Have work with several national and international companies
+- 🍗 Have experience working as Corporate Workshop Coordinator on IT related domain
 
 --- 
 
