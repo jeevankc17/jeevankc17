@@ -23,7 +23,6 @@
 
 <h2 ><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="65" height="60"> I'm currently ...</h2>
 
-- 🔭 Looking to explore Data Analytics And Visualization For Business Intelligence
 - 👍Previously done some projects on MERN, Blockchain  & Mixed Reality
 - 🧑‍💻 Looking for internship
 - 🥳 Sucessfully coordinated several technical event as a coordinator like Blockchain workshops, Drone and RC Plane Assembling Program.. 
