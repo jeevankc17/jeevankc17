@@ -23,9 +23,10 @@
 
 <h2 ><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="65" height="60"> I'm currently ...</h2>
 
-- 👍Previously done some projects on MERN, Blockchain  & Mixed Reality
+- 👍 Previously done some projects on MERN, Blockchain  & Mixed Reality
+- 😎 Exploring DevOps, web development, and Web3 to broaden skills and leverage emerging technologies for software development
 - 🧑‍💻 Looking for internship
-- 🥳 Sucessfully coordinated several technical event as a coordinator like Blockchain workshops, Drone and RC Plane Assembling Program.. 
+- 🥳 Sucessfully coordinated several technical event as a coordinator like Blockchain workshops, Drone and RC Plane Assembling Program..
 - 🎗️ Actively participating on several hackathons from past
 
 --- 
