@@ -14,7 +14,7 @@
 <li> 👤 Name: Jeevan KC </li>
 <li> 📌 Location : Kathmandu, Nepal 🇳🇵</li>
 <li> 📢 Langauges: English, Nepali, Hindi
-<li> 🎓 Computer Engineering passout from Tribhuwan University  </li>
+<li> 🎓 Computer Engineering pass out from Tribhuwan University  </li>
 <li> ❤️ Want to explore all the elements of life </li>
 <li> 😎 Strong leadership qualities combined with excellent persuasive skills. </li>
 </ul>
@@ -23,11 +23,10 @@
 
 <h2 ><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="65" height="60"> I'm currently ...</h2>
 
-- 👍 Previously done some projects on MERN, Blockchain  & Mixed Reality
+- 👍 Previously done some projects on MERN, Blockchain,  and mixed Reality
 - 😎 Exploring DevOps, web development, and Web3 to broaden skills and leverage emerging technologies for software development
-- 🧑‍💻 Looking for internship
-- 🥳 Sucessfully coordinated several technical event as a coordinator like Blockchain workshops, Drone and RC Plane Assembling Program..
-- 🎗️ Actively participating on several hackathons from past
+- 🥳 Successfully coordinated several technical events as a coordinator like Blockchain workshops, Drone and RC Plane Assembling Program..
+- 🎗️ Actively participated on several hackathons in past
 
 --- 
 
@@ -35,7 +34,7 @@
 
 - 👻 Version Control System (git)
 - 🥷 Data Visualization Tool (tableau)
-- 🐤 UI/UX (figma) 
+- 🐤 UI/UX (Figma) 
 - 😉 Graphics Design Software (photoshop, canva, adobe illustrator) 
 - 🫠 3D modeling software (blender) 
 - 🙃 video editing software ( Filmora, Kinemaster ) 
