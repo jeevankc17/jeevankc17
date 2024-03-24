@@ -23,16 +23,17 @@
 
 <h2 ><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="65" height="60"> I'm currently ...</h2>
 
-- 👍 Previously done some projects on MERN, Blockchain,  and mixed Reality
-- 😎 Exploring DevOps, web development, and Web3 to broaden skills and leverage emerging technologies for software development
-- 🥳 Successfully coordinated several technical events as a coordinator like Blockchain workshops, Drone and RC Plane Assembling Program..
-- 🎗️ Actively participated on several hackathons in past
+- 👍 Previously done some projects on MERN, blockchain, and mixed Reality
+- 👍 Javascript is the language I am most comfortable with
+- 😎 Actively exploring system designs to broaden skills and leverage emerging technologies for software development
+- 🥳 Successfully coordinated several technical events as a coordinator like Blockchain workshops, Drone and RC Plane Assembling Program in the past
+- 🎗️ Participated in several hackathons in the past
 
 --- 
 
 <h2 ><img src="https://github.com/jeevankc17/jeevankc17/assets/62981718/59b14500-47f7-4cc2-9af3-b225b69d8ca2" alt="dog" width="65" height="60"> Soft Skills</h2>
 
-- 👻 Version Control System (git)
+- 👻 Version Control System (git) 
 - 🥷 Data Visualization Tool (tableau)
 - 🐤 UI/UX (Figma) 
 - 😉 Graphics Design Software (photoshop, canva, adobe illustrator) 
