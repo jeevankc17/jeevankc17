@@ -21,7 +21,7 @@
 
 --- 
 
-<h2 ><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="65" height="60"> I'm currently ...</h2>
+<h2 ><img src="💻" alt="computer" width="65" height="60"> I'm currently ...</h2>
 
 - 👍 Previously done some projects on Javascript, blockchain, llm and mixed reality
 - 👍 Javascript is the language I am most comfortable with
