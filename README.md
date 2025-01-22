@@ -14,7 +14,7 @@
 <li> 👤 Name: Jeevan KC </li>
 <li> 📌 Location : Kathmandu, Nepal 🇳🇵</li>
 <li> 📢 Langauges: English, Nepali, Hindi
-<li> 🎓 Computer Engineering pass out from Tribhuwan University  </li>
+<li> 🎓 Computer Engineer by born  </li>
 <li> ❤️ Want to explore all the elements of life </li>
 <li> 😎 Strong leadership qualities combined with excellent persuasive skills. </li>
 </ul>
@@ -23,7 +23,7 @@
 
 <h2 ><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="65" height="60"> I'm currently ...</h2>
 
-- 👍 Previously done some projects on MERN, blockchain, and mixed Reality
+- 👍 Previously done some projects on Javascript, blockchain, llm and mixed reality
 - 👍 Javascript is the language I am most comfortable with
 - 😎 Actively exploring system designs to broaden skills and leverage emerging technologies for software development
 - 🥳 Successfully coordinated several technical events as a coordinator like Blockchain workshops, Drone and RC Plane Assembling Program in the past
