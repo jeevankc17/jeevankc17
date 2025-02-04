@@ -68,11 +68,8 @@
 
 --- 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Stats:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeevankc17&show_icons=true&locale=en&layout=compact" alt="jeevankc17" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeevankc17&show_icons=true&locale=en" alt="jeevankc17" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeevankc17&" alt="jeevankc17" /></p>
 
 ---
