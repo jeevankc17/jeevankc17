@@ -66,10 +66,4 @@
 
 </p>
 
---- 
-
-<h3 align="left">Stats:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeevankc17&show_icons=true&locale=en&layout=compact" alt="jeevankc17" /></p>
-
 ---
