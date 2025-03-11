@@ -47,7 +47,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://twitter.com/jeevankc1718" target="blank">
+<a href="https://x.com/jeevan1718" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jeevankc1718" height="30" width="40" />
 </a>
   
