@@ -51,7 +51,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jeevankc1718" height="30" width="40" />
 </a>
   
-<a href="[https://linkedin.com/in/jeevan-k-c-8b69541ba](https://www.linkedin.com/in/jeevankc17/)" target="blank">
+<a href="https://www.linkedin.com/in/jeevankc17" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeevan-k-c-8b69541ba" height="30" width="40" />
 </a>
   
