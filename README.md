@@ -21,25 +21,18 @@
 
 --- 
 
-<h2 > 🖥️⌨️I'm currently ...</h2>
+<h2 > 🖥️⌨️Key Takeways ...</h2>
 
-- 👍 Previously done some projects on Javascript, blockchain, llm and mixed reality
 - 👍 Javascript is the language I am most comfortable with
 - 😎 Actively exploring system designs to broaden skills and leverage emerging technologies for software development
-- 🥳 Successfully coordinated several technical events as a coordinator like Blockchain workshops, Drone and RC Plane Assembling Program in the past
-- 🎗️ Participated in several hackathons in the past
 
 --- 
 
 <h2 ><img src="https://github.com/jeevankc17/jeevankc17/assets/62981718/59b14500-47f7-4cc2-9af3-b225b69d8ca2" alt="dog" width="65" height="60"> Soft Skills</h2>
 
-- 👻 Version Control System (git) 
 - 🥷 Data Visualization Tool (tableau)
 - 🐤 UI/UX (Figma) 
-- 😉 Graphics Design Software (photoshop, canva, adobe illustrator) 
 - 🫠 3D modeling software (blender) 
-- 🙃 video editing software ( Filmora, Kinemaster ) 
-- 🤠 blogging (google blogspot)
 - 🐚 Productivity Tools (MS Word, MS Excel, Powerpoint) 
 
 ---
