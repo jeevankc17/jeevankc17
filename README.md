@@ -25,15 +25,6 @@
 - 👍 Javascript is the language I am most comfortable with
 - 😎 Actively exploring system designs & emerging technologies
 
---- 
-
-<h2 ><img src="https://github.com/jeevankc17/jeevankc17/assets/62981718/59b14500-47f7-4cc2-9af3-b225b69d8ca2" alt="dog" width="65" height="60"> Soft Skills</h2>
-
-- 🥷 Data Visualization Tool (tableau)
-- 🐤 UI/UX (Figma) 
-- 🫠 3D modeling software (blender) 
-- 🐚 Productivity Tools (MS Word, MS Excel, Powerpoint) 
-
 ---
 
 <h3 align="left">Connect with me:</h3>
