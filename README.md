@@ -13,7 +13,7 @@
 <li> 👤 Name: Jeevan KC </li>
 <li> 📌 Location : Kathmandu, Nepal 🇳🇵</li>
 <li> 📢 Langauges: English, Nepali, Hindi
-<li> 🎓 Computer Engineer by born  </li>
+<li> 🎓 Principle First Software Engineer  </li>
 <li> ❤️ Want to explore all the elements of life </li>
 <li> 😎 Strong leadership qualities combined with excellent persuasive skills. </li>
 </ul>
@@ -34,9 +34,6 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeevan-k-c-8b69541ba" height="30" width="40" />
 </a>
   
-<a href="https://fb.com/jeevankc171819" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jeevankc171819" height="30" width="40" />
-</a>
 
 
 <a href="https://medium.com/@jkc5186" target="_blank">
